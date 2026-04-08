@@ -7,7 +7,7 @@ Herramienta de recordatorio para el cuidado ocular que notifica cada 1180 segund
 - Notificaciones emergentes programadas para descansar
 - Ejecución en la bandeja del sistema (system tray)
 - Opción de inicio automático al encender el equipo
--Ejecución de instancia única
+- Ejecución de instancia única
 
 ## Compilación
 
@@ -26,7 +26,7 @@ build.bat
 Ejecute EyeCareReminder.exe y el programa se iniciará en la bandeja del sistema.
 
 - Clic derecho en el icono de la bandeja: Abre el menú.
--Doble clic en el icono de la bandeja: Prueba el recordatorio de inmediato.
+- Doble clic en el icono de la bandeja: Prueba el recordatorio de inmediato.
 
 ## Licencia
 
