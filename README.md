@@ -1,33 +1,33 @@
 # EyeCare Reminder
 
-护眼提醒工具，每 1180 秒（约 20 分钟）提醒休息 20 秒。
+Herramienta de recordatorio para el cuidado ocular que notifica cada 1180 segundos la necesidad de descansar durante 20 segundos.
 
-## 功能
+## Funciones
 
-- 定时弹窗提醒休息
-- 系统托盘运行
-- 开机自启动选项
-- 单实例运行
+- Notificaciones emergentes programadas para descansar
+- Ejecución en la bandeja del sistema (system tray)
+- Opción de inicio automático al encender el equipo
+-Ejecución de instancia única
 
-## 编译
+## Compilación
 
-```bash
+```Bash
 make
 ```
 
-或使用批处理文件：
+O utilice el archivo por lotes (batch file):
 
-```bash
+```Bash
 build.bat
 ```
 
-## 使用
+## Uso
 
-运行 `EyeCareReminder.exe`，程序将在系统托盘运行。
+Ejecute EyeCareReminder.exe y el programa se iniciará en la bandeja del sistema.
 
-- 右键托盘图标：打开菜单
-- 双击托盘图标：立即测试提醒
+- Clic derecho en el icono de la bandeja: Abre el menú.
+-Doble clic en el icono de la bandeja: Prueba el recordatorio de inmediato.
 
-## 许可
+## Licencia
 
 MIT
